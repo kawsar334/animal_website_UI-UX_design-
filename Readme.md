@@ -25,8 +25,10 @@
 - Block Scope 
 ## Live link to the deployed project.
 
-- Github Repo Link:https://github.com/programming-hero-web-course2/b10a6-pet-adoption-kawsar334
-- Live Link : https://scintillating-scone-536ab7.netlify.app/
+- github Repo Link_one: https://github.com/kawsar334/animal_website_UI-UX_design-/
+- Github Repo Link _two:https://github.com/programming-hero-web-course2/b10a6-pet-adoption-kawsar334
+- live_link_one:https://kawsar334.github.io/animal_website_UI-UX_design-/
+- Live Link2 : https://scintillating-scone-536ab7.netlify.app/
 
 ## Private For your Assignment
 
